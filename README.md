@@ -1,4 +1,6 @@
-![Banner](./assets/banner.png)
+<p align="center">
+  <img src="./assets/banner.png" alt="Aulad IT Solution Banner" width="100%">
+</p>
 
 # 🚀 Aulad IT Solution
 
